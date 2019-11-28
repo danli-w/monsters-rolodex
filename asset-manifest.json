@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/danli-w/monsters-rolodex/static/css/main.fc70b046.chunk.css",
+    "main.js": "/danli-w/monsters-rolodex/static/js/main.e03b27b2.chunk.js",
+    "main.js.map": "/danli-w/monsters-rolodex/static/js/main.e03b27b2.chunk.js.map",
+    "runtime-main.js": "/danli-w/monsters-rolodex/static/js/runtime-main.a80b24dc.js",
+    "runtime-main.js.map": "/danli-w/monsters-rolodex/static/js/runtime-main.a80b24dc.js.map",
+    "static/js/2.12dc0d94.chunk.js": "/danli-w/monsters-rolodex/static/js/2.12dc0d94.chunk.js",
+    "static/js/2.12dc0d94.chunk.js.map": "/danli-w/monsters-rolodex/static/js/2.12dc0d94.chunk.js.map",
+    "index.html": "/danli-w/monsters-rolodex/index.html",
+    "precache-manifest.e87b05f9dc5b87e7286019a1c98d3d63.js": "/danli-w/monsters-rolodex/precache-manifest.e87b05f9dc5b87e7286019a1c98d3d63.js",
+    "service-worker.js": "/danli-w/monsters-rolodex/service-worker.js",
+    "static/css/main.fc70b046.chunk.css.map": "/danli-w/monsters-rolodex/static/css/main.fc70b046.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a80b24dc.js",
+    "static/js/2.12dc0d94.chunk.js",
+    "static/css/main.fc70b046.chunk.css",
+    "static/js/main.e03b27b2.chunk.js"
+  ]
+}
